@@ -1,0 +1,6 @@
+title: Python pro databáze
+lead: Materiály ke kurzu Python pro databáze
+image: uvod-do-progr.svg
+chapters:
+  - mongo-db
+

@@ -1,0 +1,19 @@
+title: Python pro NoSQL databáze
+link: python-pro-powerbi
+brief: Ukážeme si, jak v Pythonu pracovat s NoSQL databázemi, konkrétně s databázi Mongo DB
+lessons:
+  - title: Instalace
+    link: instalace
+    brief: Jak doinstalovat moduly, které budeme používat.
+  - title: Čtení dat
+    link: cteni-dat
+    brief: Čtení dat z existující databáze
+  - title: Vkládání a mazání dat
+    link: vkladani-mazani-dat
+    brief: Vkládání nových dat do databáze a mazání dat
+  - title: Úprava dat
+    link: uprava-dat
+    brief: Úprava dat uložených v databázi
+  - title: Agregace
+    link: agregace
+    brief: Agregace dat

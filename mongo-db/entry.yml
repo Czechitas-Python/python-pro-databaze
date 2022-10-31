@@ -1,0 +1,8 @@
+title: Python pro Power BI
+lead: Kurz o využití Pythonu v prostředí Power BI
+lessons:
+  - instalace
+  - cteni-dat
+  - vkladani-mazani-dat
+  - uprava-dat
+  - agregace
