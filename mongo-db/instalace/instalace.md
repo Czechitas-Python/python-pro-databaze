@@ -1,15 +1,17 @@
-Pokud ještě nemáš nainstalovaný Python a Visual Studio Code na svém počítači, postupuj nejprve podle [tohoto návodu](https://kodim.cz/czechitas/uvod-do-progr/priprava/jazyky-nastroje).
+## Modul pymongo
 
-V rámci workshopu budeme používat modul pro práci s databází MongoDB `pymongo`. `pymongo` je externí modul, který musíme nejdříve nainstalovat. Pro instalaci si otevřeme terminál a napíšeme následující příkazy (pozor, znak dolaru `$` neopisuj):
+Pokud ještě nemáš nainstalovaný Python a Visual Studio Code na svém počítači, postupuj nejprve podle [tohoto návodu](https://kodim.cz/kurzy/uvod-do-progr-1/priprava/jazyky-nastroje/instalace-python).
+
+V rámci workshopu budeme používat modul pro práci s databází MongoDB `pymongo`. `pymongo` je externí modul, který musíme nejdříve nainstalovat. Pro instalaci si otevřeme terminál a napíšeme následující příkazy:
 
 ```shell
-$ py -m pip install pymongo
+pip install pymongo
 ```
 
 Pokud používáme MacOS nebo Linux, napíšeme:
 
 ```shell
-$ pip3 install pymongo
+pip3 install pymongo
 ```
 
 Instalace bude trvat jen pár sekund. Terminál během instalace vypíše spoustu textu. Někde na konci bychom pak měli vidět text
@@ -22,7 +24,7 @@ Successfully installed pymongo-3.11.2
 
 Pokud Python reaguje chybou `ModuleNotFoundError` (viz níže), pak se instalace nepodařila.
 
-```
+```pycon
 >>> import pymongo
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
