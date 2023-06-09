@@ -3,7 +3,7 @@ title: Knihovna
 demand: 2
 ---
 
-Níže jsou informace o třech různých knihách.
+Níže jsou informace o dvou různých knihách.
 
 První kniha:
 
