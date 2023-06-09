@@ -3,7 +3,7 @@ title: Každý má svou pravdu
 demand: 2
 ---
 
-Uvažujme data o dvou divadelních hrách, která jsou v následující tabulce.
+Uvažujme data o třech divadelních hrách, která jsou v následující tabulce.
 
 | Představení          | Délka v minutách | Premiéra   | Derniéra   |
 | -------------------- | ---------------: | ---------- | ---------- |
@@ -13,7 +13,7 @@ Uvažujme data o dvou divadelních hrách, která jsou v následující tabulce.
 
 Splň následující úkoly.
 
-- Přepiš tato data to dvou slovníků. Pokud nějaký sloupec nemá hodnotu, vynech ho.
+- Přepiš tato data to třech slovníků. Pokud nějaký sloupec nemá hodnotu, vynech ho.
 - Vlož jednotlivé slovníky postupně do své databáze do kolekce `hry`.
 - Nech si na obrazovku vypsat ID alespoň jednoho vloženého dokumentu.
 
