@@ -1,2 +1,2 @@
 ## Cvičení
-::exc[excs>hodnoceni-knih]
+::exc[excs/hodnoceni-knih]

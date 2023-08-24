@@ -1,6 +1,6 @@
 ## Cvičení
 
-::exc[excs>pravda]
+::exc[excs/pravda]
 
 ### Bonusové cvičení
-::exc[excs>knihovna]
+::exc[excs/knihovna]
